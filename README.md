@@ -51,7 +51,7 @@ define('ENCRYPT_TYPE', "RC4");
 #### Build & Run
 
 ```
-git clone https://github.com/firesunCN/BlueLotus_XSSReceiver.git && cd BlueLotus_XSSReceiver
+git clone https://github.com/yichen115/BlueLotus_XSSReceiver-master.git && cd BlueLotus_XSSReceiver
 docker build -t bluelotus .
 docker run -d -p 80:80 bluelotus
 ```
